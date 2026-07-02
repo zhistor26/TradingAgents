@@ -1,0 +1,4 @@
+interface:
+  display_name: "LazyCat LPK Netdisk"
+  short_description: "Reusable LazyCat LPK netdisk integration workflow"
+  default_prompt: "Use $lazycat-lpk-netdisk to integrate LazyCat Drive open/save into this LPK app."

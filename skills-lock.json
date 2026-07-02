@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skills": {
+    "lazycat-advanced-routing": {
+      "source": "zhistor26/lazycat-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lazycat-advanced-routing/SKILL.md",
+      "computedHash": "e65f08dceb49bddf1bd582388478d65b014d86e53535c3ab64ab3a38f7a1da8b"
+    },
+    "lazycat-aipod-developer": {
+      "source": "zhistor26/lazycat-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lazycat-aipod-developer/SKILL.md",
+      "computedHash": "03dd14aa1f8188498bc202db88a38d83810a70433baa6394bd46f4c632f31d7d"
+    },
+    "lazycat-auth-integration": {
+      "source": "zhistor26/lazycat-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lazycat-auth-integration/SKILL.md",
+      "computedHash": "58fc5534ea32b2915fa49dbc1c0914ba807b5aa71ddf009c4f785f2332f86f2b"
+    },
+    "lazycat-dynamic-deploy": {
+      "source": "zhistor26/lazycat-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lazycat-dynamic-deploy/SKILL.md",
+      "computedHash": "242ff9791d45582391c93fe5de6305ec296abaf2c0b3b51f43936348b1ac9b73"
+    },
+    "lazycat-library": {
+      "source": "zhistor26/lazycat-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lazycat-library/SKILL.md",
+      "computedHash": "91e579a3e49bda0e73e9312ca7acadfc21065b1376a45fe7130842c592de61d5"
+    },
+    "lazycat-lpk-netdisk": {
+      "source": "zhistor26/lazycat-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lazycat-lpk-netdisk/SKILL.md",
+      "computedHash": "869400e3b9373b4b80421a54b001ff0dd214f2f4fcdf1fe3ad9ca44cc87f2958"
+    },
+    "lazycat-porting": {
+      "source": "zhistor26/lazycat-skills",
+      "sourceType": "github",
+      "skillPath": "skills/lazycat-porting/SKILL.md",
+      "computedHash": "124c58f9485c02b518da5004e0f05e49a82f07e793ad611635bc431b062894c6"
+    }
+  }
+}

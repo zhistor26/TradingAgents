@@ -221,3 +221,14 @@ __marimo__/
 # Enterprise env file (secrets) and generated run reports
 .env.enterprise
 reports/
+
+# Agent skills: keep skills/ + skills-lock.json; ignore temp clone & multi-agent junk
+.lazycat-skills-src/
+.agents/
+.agent/
+.adal/
+.aider-desk/
+.claude/
+.windsurf/
+agent/
+data/
